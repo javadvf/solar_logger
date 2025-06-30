@@ -1,0 +1,38 @@
+[
+  {
+    "migrated_count": 328,
+    "target_file": "energy_logs/energy_log_2025-06-13.csv",
+    "event": "rollover_migration",
+    "timestamp": "2025-06-13T00:00:12.520111"
+  },
+  {
+    "migrated_count": 354,
+    "target_file": "energy_logs/energy_log_2025-06-14.csv",
+    "event": "rollover_migration",
+    "timestamp": "2025-06-14T00:00:12.714201"
+  },
+  {
+    "migrated_count": 359,
+    "target_file": "energy_logs/energy_log_2025-06-15.csv",
+    "event": "rollover_migration",
+    "timestamp": "2025-06-15T00:00:12.908442"
+  },
+  {
+    "migrated_count": 376,
+    "target_file": "energy_logs/energy_log_2025-06-16.csv",
+    "event": "rollover_migration",
+    "timestamp": "2025-06-16T00:00:13.102184"
+  },
+  {
+    "migrated_count": 408,
+    "target_file": "energy_logs/energy_log_2025-06-17.csv",
+    "event": "rollover_migration",
+    "timestamp": "2025-06-17T00:00:13.296795"
+  },
+  {
+    "migrated_count": 337,
+    "target_file": "energy_logs/energy_log_2025-06-18.csv",
+    "event": "rollover_migration",
+    "timestamp": "2025-06-18T00:00:13.487331"
+  }
+]

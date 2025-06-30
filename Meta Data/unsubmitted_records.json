@@ -1,0 +1,212 @@
+[
+  {
+    "timestamp": "2025-06-18T09:17:13.539805",
+    "voltage": 3.468,
+    "current": 0.001,
+    "power": 0.002,
+    "energy_Wh": 3.333e-05,
+    "cumulative_energy_Wh": 0.13251667,
+    "device_id": "device_001",
+    "chain_hash": "65b8217bf931573789122a780100f04bb0f9b8b5a93aaee7b7737b1393026456"
+  },
+  {
+    "timestamp": "2025-06-18T09:18:13.539523",
+    "voltage": 3.464,
+    "current": 0.001,
+    "power": 0.002,
+    "energy_Wh": 3.333e-05,
+    "cumulative_energy_Wh": 0.13255,
+    "device_id": "device_001",
+    "chain_hash": "6744092641cb24942722193445deda8ed194a54cd6ebe2d7ff36e6c7565dd7c2"
+  },
+  {
+    "timestamp": "2025-06-18T09:19:13.539733",
+    "voltage": 3.46,
+    "current": 0.001,
+    "power": 0.002,
+    "energy_Wh": 3.333e-05,
+    "cumulative_energy_Wh": 0.13258333,
+    "device_id": "device_001",
+    "chain_hash": "ff8510d7963e9d56555fc70b24875575e3c0c65248a5b018f3cb7a72b6b9c56a"
+  },
+  {
+    "timestamp": "2025-06-18T09:20:13.539811",
+    "voltage": 3.46,
+    "current": 0.001,
+    "power": 0.002,
+    "energy_Wh": 3.333e-05,
+    "cumulative_energy_Wh": 0.13261667,
+    "device_id": "device_001",
+    "chain_hash": "03b704bb6040db1140ff6ba6793258f9986675495055425aaad131eaf06718f4"
+  },
+  {
+    "timestamp": "2025-06-18T09:21:13.540028",
+    "voltage": 3.468,
+    "current": 0.001,
+    "power": 0.002,
+    "energy_Wh": 3.333e-05,
+    "cumulative_energy_Wh": 0.13265,
+    "device_id": "device_001",
+    "chain_hash": "d48a9946c1b23eafa5d7911bcd8947bb50d70ffef81b0fc88aa9e5ac76a08a17"
+  },
+  {
+    "timestamp": "2025-06-18T09:22:13.540212",
+    "voltage": 3.456,
+    "current": 0.001,
+    "power": 0.003,
+    "energy_Wh": 5e-05,
+    "cumulative_energy_Wh": 0.1327,
+    "device_id": "device_001",
+    "chain_hash": "0fcb1b8e9a06e617e787a95818c06d20299558eaeb8f967f77139b2f5dac24b5"
+  },
+  {
+    "timestamp": "2025-06-18T09:23:13.540364",
+    "voltage": 3.468,
+    "current": 0.001,
+    "power": 0.002,
+    "energy_Wh": 3.333e-05,
+    "cumulative_energy_Wh": 0.13273333,
+    "device_id": "device_001",
+    "chain_hash": "1b4da971d6e4ddf6710a8d12ddce07edb3889acaa4a7db7d1cfd4e1c2ee9c675"
+  },
+  {
+    "timestamp": "2025-06-18T09:24:13.540520",
+    "voltage": 3.468,
+    "current": 0.001,
+    "power": 0.002,
+    "energy_Wh": 3.333e-05,
+    "cumulative_energy_Wh": 0.13276667,
+    "device_id": "device_001",
+    "chain_hash": "839abbcc959b9be5910eafb9143dd719802a38038bf305bdb08b2a3b14751b6c"
+  },
+  {
+    "timestamp": "2025-06-18T09:25:13.540672",
+    "voltage": 3.46,
+    "current": 0.001,
+    "power": 0.002,
+    "energy_Wh": 3.333e-05,
+    "cumulative_energy_Wh": 0.1328,
+    "device_id": "device_001",
+    "chain_hash": "d584bbd0a59b20d371385c3ccc5adb344b1f382e64ece471492c37cbb685740d"
+  },
+  {
+    "timestamp": "2025-06-18T09:26:13.540883",
+    "voltage": 3.46,
+    "current": 0.001,
+    "power": 0.003,
+    "energy_Wh": 5e-05,
+    "cumulative_energy_Wh": 0.13285,
+    "device_id": "device_001",
+    "chain_hash": "cf2494bc93a9e9c10c3a551d96d179483d489a7a959656f6253d7ec4693920ad"
+  },
+  {
+    "timestamp": "2025-06-18T09:27:13.540939",
+    "voltage": 3.464,
+    "current": 0.001,
+    "power": 0.002,
+    "energy_Wh": 3.333e-05,
+    "cumulative_energy_Wh": 0.13288333,
+    "device_id": "device_001",
+    "chain_hash": "dd8a042bbd6a98c646f60c98b0d229c0fcef2ffad3ff4b3cc15445f2c23b6853"
+  },
+  {
+    "timestamp": "2025-06-18T09:28:13.541079",
+    "voltage": 3.464,
+    "current": 0.001,
+    "power": 0.002,
+    "energy_Wh": 3.333e-05,
+    "cumulative_energy_Wh": 0.13291667,
+    "device_id": "device_001",
+    "chain_hash": "a57e3d75fdb2a19002d8c6af87798e5648e190b5365a31e02385f9aa03a63e53"
+  },
+  {
+    "timestamp": "2025-06-18T09:29:13.541186",
+    "voltage": 3.468,
+    "current": 0.0,
+    "power": 0.001,
+    "energy_Wh": 1.667e-05,
+    "cumulative_energy_Wh": 0.13293333,
+    "device_id": "device_001",
+    "chain_hash": "336586b70ed318390821bce0133c18cdf5c4111d620dd93b29bb01c63504555f"
+  },
+  {
+    "timestamp": "2025-06-18T09:30:13.541339",
+    "voltage": 3.464,
+    "current": 0.001,
+    "power": 0.003,
+    "energy_Wh": 5e-05,
+    "cumulative_energy_Wh": 0.13298333,
+    "device_id": "device_001",
+    "chain_hash": "e6c00d94a1b0cb82f295293a2d2c08cb75881039af8502aa1e1d3db9911b886e"
+  },
+  {
+    "timestamp": "2025-06-18T09:31:13.541445",
+    "voltage": 3.46,
+    "current": 0.001,
+    "power": 0.002,
+    "energy_Wh": 3.333e-05,
+    "cumulative_energy_Wh": 0.13301667,
+    "device_id": "device_001",
+    "chain_hash": "41b9c3bcdb7abf5d0ce05916275fe081a7407009842084f8b660be79384a27ca"
+  },
+  {
+    "timestamp": "2025-06-18T09:32:13.541580",
+    "voltage": 3.464,
+    "current": 0.001,
+    "power": 0.002,
+    "energy_Wh": 3.333e-05,
+    "cumulative_energy_Wh": 0.13305,
+    "device_id": "device_001",
+    "chain_hash": "9c885e9dbc3388790efac3912a041b2f49345b8bfb76a7db847e7c14d203d01c"
+  },
+  {
+    "timestamp": "2025-06-18T09:33:13.541675",
+    "voltage": 3.464,
+    "current": 0.0,
+    "power": 0.001,
+    "energy_Wh": 1.667e-05,
+    "cumulative_energy_Wh": 0.13306667,
+    "device_id": "device_001",
+    "chain_hash": "3035cb041ad924aa81f7c1cb5871d900b2de5034aa18209e30499fb99db87075"
+  },
+  {
+    "timestamp": "2025-06-18T09:34:13.541784",
+    "voltage": 3.468,
+    "current": 0.001,
+    "power": 0.002,
+    "energy_Wh": 3.333e-05,
+    "cumulative_energy_Wh": 0.1331,
+    "device_id": "device_001",
+    "chain_hash": "20b2661e3a5e94b3c94411ec28f1fe5cc5825f2183b2adb46c618c77b01bc27a"
+  },
+  {
+    "timestamp": "2025-06-18T09:35:13.541962",
+    "voltage": 3.46,
+    "current": 0.001,
+    "power": 0.002,
+    "energy_Wh": 3.333e-05,
+    "cumulative_energy_Wh": 0.13313333,
+    "device_id": "device_001",
+    "chain_hash": "07f5becf3cdc9c269cb283665fc54f1debc38fddd04d2a188682cddd4e742d2d"
+  },
+  {
+    "timestamp": "2025-06-18T09:36:13.542573",
+    "voltage": 3.464,
+    "current": 0.001,
+    "power": 0.002,
+    "energy_Wh": 3.333e-05,
+    "cumulative_energy_Wh": 0.13316667,
+    "device_id": "device_001",
+    "chain_hash": "15c6c40f05047d50e0b25def3a64cccf9fa1c3f014dd84470fef04cb86de7536"
+  },
+  {
+    "timestamp": "2025-06-18T09:37:13.542316",
+    "voltage": 3.46,
+    "current": 0.001,
+    "power": 0.002,
+    "energy_Wh": 3.333e-05,
+    "cumulative_energy_Wh": 0.1332,
+    "device_id": "device_001",
+    "chain_hash": "9e10c8d55bfa28fa843a697b5972881d0fa6f2161f5ef12ef1471bd31bc49b62"
+  }
+]
