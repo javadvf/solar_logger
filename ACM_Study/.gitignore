@@ -1,0 +1,14 @@
+# Human-subject data
+*.csv
+*.xlsx
+*.sav
+*.dta
+*.parquet
+responses/
+data/raw/
+
+# Local environments
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.env
